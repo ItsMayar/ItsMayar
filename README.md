@@ -11,8 +11,8 @@
   - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Web Techniques and Applications</b>
   - [Covid19 Web Application](https://github.com/ItsMayar/Covid19Application.git)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Computer Security</b>
+  - [Using Wireshark application](https://github.com/ItsMayar/WireShark.git)
 
 <h2>📺 YouTube Videos</h2>
 
