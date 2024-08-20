@@ -13,7 +13,27 @@
   - [Covid19 Web Application](https://github.com/ItsMayar/Covid19Application.git)
 - <b>Computer Security</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Computer Security</b>
+- <b>Integrative Programming</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Python</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Python Facial Recognition Student Attendance System</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Cloud Computing</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Computer Network</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Applied Cryptography</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Information Assurance</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Malware</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Data Communication</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Computer Architecture</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>System Adminstration and Maintenance</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 
 <h2>📺 YouTube Videos</h2>
