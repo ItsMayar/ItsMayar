@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in C++](https://github.com/ItsMayar/ReportCardSystem.git)
-- <b>Java Children Math Learning System </b>
-  - [Using Object Oriented Programming Concepts](https://github.com/ItsMayar/ChildrenMathLearningSystem.git) </i>
+- <b>Using Object Oriented Programming Concepts</b>
+  - [Java Children Math Learning System](https://github.com/ItsMayar/ChildrenMathLearningSystem.git) </i>
 - <b>Ethical Hacking</b>
   - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
   - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
