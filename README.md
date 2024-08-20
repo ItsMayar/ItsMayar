@@ -6,11 +6,9 @@
   - [Practicing DS & Algos in C++](https://github.com/ItsMayar/ReportCardSystem.git)
 - <b>Java Children Math Learning System </b>
   - [Using Object Oriented Programming Concepts](https://github.com/ItsMayar/ChildrenMathLearningSystem.git) </i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Ethical Hacking</b>
+  - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
+  - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
