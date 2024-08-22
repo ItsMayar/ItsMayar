@@ -13,7 +13,6 @@
   - [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
 - <b>Python</b>
   - [Facial Recognition Attendance System](https://github.com/ItsMayar/WireShark.git)
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -22,9 +21,7 @@
 - <b>Ethical Hacking</b>
   - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
   - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>Cloud Computing</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Malware</b>
+- <b>Internet of Things (IoT)</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 <br/>
 
