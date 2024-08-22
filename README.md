@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in C++](https://github.com/ItsMayar/ReportCardSystem.git)
+  - [C++ Student Report Card System](https://github.com/ItsMayar/ReportCardSystem.git)
 - <b>Using Object Oriented Programming Concepts</b>
   - [Java Children Math Learning System](https://github.com/ItsMayar/ChildrenMathLearningSystem.git) </i>
 - <b>Ethical Hacking</b>
@@ -15,7 +15,7 @@
 - <b>Computer Security</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Integrative Programming</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/BankQueuingSystem.git)
+  - [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
 - <b>Python</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Python Facial Recognition Student Attendance System</b>
