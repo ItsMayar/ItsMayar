@@ -18,14 +18,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Computer Security</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+  -[Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Ethical Hacking</b>
-  - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
-  - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  -[Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
+  -[Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Cloud Computing</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+  -[Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Malware</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+  -[Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 
 - <b>Computer Network</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
