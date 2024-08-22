@@ -24,20 +24,6 @@
 - <b>Internet of Things (IoT)</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 <br/>
-
-- <b>Computer Network</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Applied Cryptography</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Information Assurance</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Data Communication</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Computer Architecture</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>System Adminstration and Maintenance</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-
 <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
