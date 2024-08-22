@@ -15,7 +15,7 @@
 - <b>Computer Security</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Integrative Programming</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+  - [Using Wireshark Application](https://github.com/ItsMayar/BankQueuingSystem.git)
 - <b>Python</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Python Facial Recognition Student Attendance System</b>
