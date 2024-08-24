@@ -12,7 +12,7 @@
 - <b>Integrative Programming</b>
   - [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
 - <b>Python</b>
-  - [Facial Recognition Attendance System](https://github.com/ItsMayar/WireShark.git)
+  - [Facial Recognition Attendance System](https://github.com/ItsMayar/FaceRecognitionSystem.git)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
