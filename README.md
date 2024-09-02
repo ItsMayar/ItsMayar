@@ -11,7 +11,7 @@
   - [Covid19 Web Application](https://github.com/ItsMayar/Covid19Application.git)
 - <b>Integrative Programming</b>
   - [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
-- <b>Python</b>
+- <b>Python Programming Language Systsem</b>
   - [Facial Recognition Attendance System](https://github.com/ItsMayar/FaceRecognitionSystem.git)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
