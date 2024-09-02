@@ -18,6 +18,8 @@
 
 - <b>Computer Security</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
+- <b>Computer Security</b>
+  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Ethical Hacking</b>
   - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
 - <b>Internet of Things (IoT)</b>
