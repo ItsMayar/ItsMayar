@@ -20,7 +20,6 @@
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
 - <b>Ethical Hacking</b>
   - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
-  - [Ethical Hacking Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Internet of Things (IoT)</b>
   - [IoT Solar-based Power Supply](https://github.com/ItsMayar/SolarPowerSupply.git)
   - [Securing Cloud Services](https://github.com/ItsMayar/SecuringCloudServices.git)
