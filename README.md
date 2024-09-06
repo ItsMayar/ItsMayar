@@ -16,10 +16,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Elastic Stack SIEM in a Home Lab Environment</b>
+  - [Elastic Stack SIEM Implementation](https://github.com/ItsMayar/ElasticSIEMlab.git)
 - <b>Computer Security</b>
   - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Home SIEM Lab</b>
-  - [Elastic Stack SIEM Implementation ](https://github.com/ItsMayar/ElasticSIEMlab.git)
 - <b>Ethical Hacking</b>
   - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
 - <b>Internet of Things (IoT)</b>
