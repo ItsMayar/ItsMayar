@@ -1,43 +1,33 @@
-<h1>Hi, I'm Mayar! <br/><a href="https://github.com/ItsMayar">Programmer</a>, <a href="https://www.linkedin.com/in/mayarshenawi/">Cybersecurity Professional</a><a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+# Hi, I'm Mayar
 
+I'm an IT graduate (Security Technology) from Multimedia University, based in Riyadh. I'm focused on applied AI and data, with a background in cybersecurity. I like building things and seeing the results, from a facial recognition attendance system to a lead-scoring model.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+[LinkedIn](https://www.linkedin.com/in/mayarshenawi/)
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [C++ Student Report Card System](https://github.com/ItsMayar/ReportCardSystem.git)
-- <b>Using Object Oriented Programming Concepts</b>
-  - [Java Children Math Learning System](https://github.com/ItsMayar/ChildrenMathLearningSystem.git) </i>
-- <b>Web Techniques and Applications</b>
-  - [Covid19 Web Application](https://github.com/ItsMayar/Covid19Application.git)
-- <b>Integrative Programming</b>
-  - [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
-- <b>Python Programming Language System</b>
-  - [Facial Recognition Attendance System](https://github.com/ItsMayar/FaceRecognitionSystem.git)
+## What I'm working on now
+Projects I've built for BAS Innovations:
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+- [BAS Lead API](https://github.com/ItsMayar/bas-lead-api): a Node.js/Express API for tracking leads, with automated tests and Semgrep security scanning in GitHub Actions
+- [BAS Lead Scoring](https://github.com/ItsMayar/bas-lead-scoring): a Python model (scikit-learn) that ranks leads by how likely they are to convert, tested on sample data
+- [BAS Market Analysis](https://github.com/ItsMayar/bas-market-analysis): a Python analysis of the Saudi/GCC competitor landscape and where AI-led positioning is missing
 
-- <b>Elastic Stack SIEM in a Home Lab Environment</b>
-  - [Elastic Stack SIEM Implementation](https://github.com/ItsMayar/ElasticSIEMlab.git)
-- <b>Computer Security</b>
-  - [Using Wireshark Application](https://github.com/ItsMayar/WireShark.git)
-- <b>Ethical Hacking</b>
-  - [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
-- <b>Internet of Things (IoT)</b>
-  - [IoT Solar-based Power Supply](https://github.com/ItsMayar/SolarPowerSupply.git)
-  - [Securing Cloud Services](https://github.com/ItsMayar/SecuringCloudServices.git)
- 
+## AI and data
+- [Facial Recognition Attendance System](https://github.com/ItsMayar/FaceRecognitionSystem.git): attendance tracking in Python using facial recognition and pre-trained models
 
+## Cybersecurity
+- [Elastic Stack SIEM in a Home Lab](https://github.com/ItsMayar/ElasticSIEMlab.git)
+- [Using Wireshark](https://github.com/ItsMayar/WireShark.git)
+- [Capture the Flag (CTF)](https://github.com/ItsMayar/CaptureTheFlag.git)
+- [Securing Cloud Services](https://github.com/ItsMayar/SecuringCloudServices.git)
 
-<!--
+## Software development
+Coursework projects:
 
+- [C++ Student Report Card System](https://github.com/ItsMayar/ReportCardSystem.git)
+- [Java Children Math Learning System](https://github.com/ItsMayar/ChildrenMathLearningSystem.git)
+- [Covid19 Web Application](https://github.com/ItsMayar/Covid19Application.git)
+- [Bank Queuing System](https://github.com/ItsMayar/BankQueuingSystem.git)
+- [IoT Solar-based Power Supply](https://github.com/ItsMayar/SolarPowerSupply.git)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+Python, Java, C++, SQL, JavaScript, scikit-learn, pandas, Elastic SIEM, Kali Linux, GitHub Actions
