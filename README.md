@@ -2,7 +2,7 @@
 
 I'm an IT graduate (Security Technology) from Multimedia University, based in Riyadh. I'm focused on applied AI and data, with a background in cybersecurity. I like building things and seeing the results, from a facial recognition attendance system to a lead-scoring model.
 
-[LinkedIn](https://www.linkedin.com/in/mayarshenawi/)
+[LinkedIn](https://www.linkedin.com/in/mayaralshenawi/)
 
 ## What I'm working on now
 Projects I've built for BAS Innovations:
